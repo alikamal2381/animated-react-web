@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Sdata from "./Sdata";
+//import Sdata from "./Sdata";
 import Card from "./Card";
 import Web from "../images/s1.jpg";
 
